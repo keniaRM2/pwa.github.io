@@ -6,7 +6,7 @@ const DYNAMIC_LIMIT = 30;
 //console.log("ServiceWorker");
 //Todos aquellos recursos propios de la aplicación
 const APP_SHELL = [
-    '/',
+    '/pwa.github.io',
     '/index.html',
     '/pages/offline.html',
     '/css/styles.css',
